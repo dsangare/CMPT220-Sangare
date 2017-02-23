@@ -1,0 +1,17 @@
+9 pts
+
+Daouda,
+
+- Congratulations on passing the judge Kattis!
+
+- Good style!
+
+However,
+
+- Project 0 is not in the specified folder. Please organize your repository as
+  soon as possible. Thanks :)
+
+
+Peace,
+
+- Dr. Rivas

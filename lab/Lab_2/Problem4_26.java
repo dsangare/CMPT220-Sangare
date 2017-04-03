@@ -17,7 +17,7 @@ import java.util.Scanner;
 		
 		System.out.print("Enter an number, for example 11.56: ");
         String number = input.nextLine();
-        int dollarAmount = Integer.parseInt(number.substring(0, number.indexOf('.')));
+        int dollar = Integer.parseInt(number.substring(0, number.indexOf('.')));
         int amountRemain = Integer.parseInt(number.substring(number.indexOf('.') + 1));
 
 		
@@ -35,7 +35,7 @@ import java.util.Scanner;
 		
 		int pennies = amountRemain;
 		
-		System.out.println("The amount of Dollars are: " + dollarAmount
+		System.out.println("The amount of Dollars are: " + dollar
 		+ "The amount of Quarters is: " + quarter + "The amount of dimes is: "
 		+ dimes +"The amount of nickels: " + nickels + "The amount of pennies is: " 
 		+ pennies);
